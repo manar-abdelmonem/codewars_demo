@@ -1,1 +1,1 @@
-# codewars_codes
+# codewars_problems
