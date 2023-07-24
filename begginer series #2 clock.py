@@ -7,7 +7,7 @@
 
 # Example: h = 0  , m = 1 , s = 1 --> result = 61000 
 
- /#solution
+ #solution
 
     def past(h, m, s):
        return 1000 *((3600*h)+(60*m)+(s))    # remeber that:h -->3600 s ,m -->60 s ,s -->1000 ms
